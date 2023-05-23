@@ -9,7 +9,8 @@ def fizzbuzz():
     else:
       print(num)
 
-fizzbuzz()
+if __name__ == "__main__":
+  fizzbuzz()
       
       
       
